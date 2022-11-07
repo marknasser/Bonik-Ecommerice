@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bonik-Ecommerice/static/css/main.fdd5004d.css",
-    "main.js": "/Bonik-Ecommerice/static/js/main.1504cc29.js",
+    "main.js": "/Bonik-Ecommerice/static/js/main.5d98dd4a.js",
     "static/media/slide-3.png": "/Bonik-Ecommerice/static/media/slide-3.aaecb43680fecf2eefeb.png",
     "static/media/slide-2.png": "/Bonik-Ecommerice/static/media/slide-2.37492f6c2715182edca2.png",
     "static/media/slide-1.png": "/Bonik-Ecommerice/static/media/slide-1.ab34f22bd9bf81f6c7b7.png",
@@ -20,17 +20,17 @@
     "static/media/discount-1.png": "/Bonik-Ecommerice/static/media/discount-1.ec5915e86992c68a7677.png",
     "static/media/shops-10.png": "/Bonik-Ecommerice/static/media/shops-10.e1f82cb97457fc6e02df.png",
     "static/media/banner-1.png": "/Bonik-Ecommerice/static/media/banner-1.4e4b0b361a056de42cec.png",
-    "static/media/logo.svg": "/Bonik-Ecommerice/static/media/logo.6172109437bb6cb48eb8dc1f65c9964c.svg",
+    "static/media/logo.svg": "/Bonik-Ecommerice/static/media/logo.1149124a1c251487318b01bc228cf37c.svg",
     "static/media/slick.svg": "/Bonik-Ecommerice/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Bonik-Ecommerice/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Bonik-Ecommerice/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Bonik-Ecommerice/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Bonik-Ecommerice/index.html",
     "main.fdd5004d.css.map": "/Bonik-Ecommerice/static/css/main.fdd5004d.css.map",
-    "main.1504cc29.js.map": "/Bonik-Ecommerice/static/js/main.1504cc29.js.map"
+    "main.5d98dd4a.js.map": "/Bonik-Ecommerice/static/js/main.5d98dd4a.js.map"
   },
   "entrypoints": [
     "static/css/main.fdd5004d.css",
-    "static/js/main.1504cc29.js"
+    "static/js/main.5d98dd4a.js"
   ]
 }
